@@ -1,0 +1,6 @@
+Medidas del dispositivo
+1080x2220
+
+height: alto
+
+width: ancho
